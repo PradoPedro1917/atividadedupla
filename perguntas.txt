@@ -1,0 +1,174 @@
+O QUE É O SCRUM
+
+O Scrum é um framework ágil que pode ser utilizado apenas no desenvolvimento de software.
+a) Verdadeiro
+b) Falso
+
+Os sprints no Scrum têm uma duração que varia de uma a quatro semanas.
+a) Verdadeiro
+b) Falso
+
+O principal objetivo do Scrum é seguir estritamente um plano inicial.
+a) Verdadeiro
+b) Falso
+
+O Scrum busca melhorar a produtividade por meio de entregas frequentes e incrementais.
+a) Verdadeiro
+b) Falso
+
+O Scrum se destaca em projetos de baixa complexidade e requisitos estáveis.
+a) Verdadeiro
+b) Falso
+
+No modelo cascata, as etapas do projeto são sequenciais e bem definidas, enquanto o Scrum adota uma abordagem iterativa.
+a) Verdadeiro
+b) Falso
+
+O Kanban e o Scrum são métodos ágeis, mas o Kanban foca em ciclos fixos, enquanto o Scrum não.
+a) Verdadeiro
+b) Falso
+
+O Scrum enfatiza a colaboração contínua entre equipes e stakeholders para garantir que o produto atenda às necessidades do cliente.
+a) Verdadeiro
+b) Falso 
+
+gabarito
+b) Falso
+a) Verdadeiro
+b) Falso
+a) Verdadeiro
+b) Falso
+a) Verdadeiro
+b) Falso
+a) Verdadeiro
+
+2 - PILARES DO SCRUM:
+
+Os três pilares do Scrum são fundamentais para garantir que o processo funcione de maneira eficaz e contínua.
+a) Verdadeiro
+b) Falso
+
+A transparência no Scrum implica que todos os processos e informações devem ser visíveis apenas para os líderes do time.
+a) Verdadeiro
+b) Falso
+
+O quadro de tarefas deve estar sempre visível para mostrar o que está sendo feito, concluído e o que ainda precisa ser realizado.
+a) Verdadeiro
+b) Falso
+
+A inspeção no Scrum é realizada apenas no final do projeto.
+a) Verdadeiro
+b) Falso
+
+Durante a Daily Scrum, a equipe avalia seu progresso em relação à meta da sprint.
+a) Verdadeiro
+b) Falso
+
+Se um problema é identificado durante a inspeção, o time deve se adaptar para corrigir o problema.
+a) Verdadeiro
+b) Falso
+
+Após a Retrospectiva da Sprint, a equipe pode decidir manter as mesmas práticas para a próxima sprint, mesmo que tenha surgido um problema.
+a) Verdadeiro
+b) Falso
+
+O uso de ferramentas como quadros Scrum e gráficos de desempenho ajuda a garantir a transparência.
+a) Verdadeiro
+b) Falso
+
+Gabarito
+a) Verdadeiro
+b) Falso
+a) Verdadeiro
+b) Falso
+a) Verdadeiro
+a) Verdadeiro
+b) Falso
+a) Verdadeiro
+
+PAPEIS DO SCRUM:
+
+O Scrum define três papéis principais que são cargos hierárquicos dentro do framework.
+a) Verdadeiro
+b) Falso
+
+O Product Owner é responsável por gerenciar o Product Backlog, garantindo que esteja claro e priorizado.
+a) Verdadeiro
+b) Falso
+
+O Product Owner não precisa interagir com o time de desenvolvimento.
+a) Verdadeiro
+b) Falso
+
+O Scrum Master é responsável por garantir que a equipe siga as práticas ágeis corretamente e remover impedimentos.
+a) Verdadeiro
+b) Falso
+
+O Scrum Master deve ter habilidades de coaching, boa comunicação e resolução de conflitos.
+a) Verdadeiro
+b) Falso
+
+O time de desenvolvimento é auto-organizável e multifuncional.
+a) Verdadeiro
+b) Falso
+
+Os membros do time de desenvolvimento são responsáveis apenas por suas próprias tarefas e não colaboram entre si.
+a) Verdadeiro
+b) Falso
+
+O foco do time de desenvolvimento é na entrega de valor e na colaboração constante.
+a) Verdadeiro
+b) Falso
+
+Gabarito
+b) Falso
+a) Verdadeiro
+b) Falso
+a) Verdadeiro
+a) Verdadeiro
+a) Verdadeiro
+b) Falso
+a) Verdadeiro
+
+ARTEFATOS DO SCRUM
+Os artefatos no Scrum são ferramentas e produtos intangíveis criados durante o processo.
+a) Verdadeiro
+b) Falso
+
+O Product Backlog é uma lista priorizada de tudo o que precisa ser feito para o produto e é mantido pelo Product Owner.
+a) Verdadeiro
+b) Falso
+
+O Product Backlog permanece inalterado ao longo do projeto.
+a) Verdadeiro
+b) Falso
+
+Durante o Planejamento da Sprint, o time de desenvolvimento escolhe itens do Sprint Backlog para trabalhar.
+a) Verdadeiro
+b) Falso
+
+Um Sprint Backlog pode incluir tarefas específicas que o time planeja realizar durante a sprint.
+a) Verdadeiro
+b) Falso
+
+O Incremento é o conjunto de todos os itens concluídos no Sprint Backlog, mais o valor acumulado de todas as sprints anteriores.
+a) Verdadeiro
+b) Falso
+
+Um incremento deve ser algo que não pode ser usado ou liberado.
+a) Verdadeiro
+b) Falso
+
+Um incremento pode ser uma nova versão do software com novas funcionalidades e correções de bugs, prontas para serem implementadas.
+a) Verdadeiro
+b) Falso
+
+Gabarito
+b) Falso
+a) Verdadeiro
+b) Falso
+b) Falso
+a) Verdadeiro
+a) Verdadeiro
+b) Falso
+a) Verdadeiro
